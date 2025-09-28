@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: News_HabeasCorpus
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Newspaper on Habeas Corpus
+  description: A Newspaper about the suspension of the writ of Habeas Corpus. Basically
+    allowing warantless arrest.
+  itemText: 'HABEAS CORPUS SUSPENDED, RANDOM ARRESTS POSSIBLE
+
+    August 23, 1971
+
+
+    The
+    aftermath of the Plaza Miranda Bombings are grim, and it''s not just the deaths.
+    It''s the possibility of the democracy dying.
+
+
+    The president has linked
+    the attack to possible insurgencies which he says necessitated the supression
+    of habeas corpus - the writ that mandates warants in arrest.
+
+
+    Now that the
+    writ is suspended, suspects can now be arrested on mere suspicion of crime. This
+    allows any dissenters to be incarcerated on grounds of insurgent suspicion.'
+  healAmount: 0
+  icon: {fileID: 21300000, guid: f9cd55f4b4a9c624aad81a9930d5725a, type: 3}
+  prefab: {fileID: 3636660252044433415, guid: 5f941a3154e110445be08ccfd692b990, type: 3}

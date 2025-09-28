@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: RiddleNote
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Cryptic Note
+  description: A strange note with poems on it.
+  itemText: "The lions walk first, painting the town red\r\nA rhythmic pace, a quiet
+    grace left unsaid\r\nThey pave their roads well, of eaten mice and faun\r\nDutiful
+    tithers in their prideful dawn\r\n\r\nThe vultures of weak limbs and stiff beaks\r\nCan
+    only ever munch on rot-softened meat\r\nThey wait for the proud parade to pass\r\nFor
+    a slight misstep, and they\u2019d litter the grass\r\n\r\nThe rabbits are rather
+    unsightly, always skittering\r\nA step, a twitch, an eager itch-\r\nTo always
+    look behind or else they\u2019ll find-\r\nThe jaws of a beast, the pavements
+    now well-dined"
+  healAmount: 25
+  icon: {fileID: 21300000, guid: 3524513c5300f594f94ae0facb16aa65, type: 3}
+  prefab: {fileID: 0}

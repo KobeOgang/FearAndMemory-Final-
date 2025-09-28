@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: News_MLTV
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Newspaper on Martial Law
+  description: A newspaper about the Martial Law Declaration and ABS CBN shut down.
+  itemText: "MARTIAL LAW DECLARED, 7 TV STATIONS SHUT DOWN\nSeptember 21, 1972\n\nEver
+    since the president declared Martial Law in September 21, he has implemented
+    additional measures, including Letter of Instruction 1 which ordered the Military
+    to shut down 7 TV stations, specifically targetting the popular ABSCBN network.
+    \n\nApart from the network, the administration has shut down 16 daily papers,
+    292 radio stations, 66 community papers, and utility companies like Meralco,
+    PLDT, and even Philippine Airlines.\n\nThe media crackdown was necessary according
+    to Marcos. He claims the media was being used to sow discord and incite rebellion.
+    Various political organizations are alarmed and see this move as a way to consolidate
+    power."
+  healAmount: 0
+  icon: {fileID: 21300000, guid: 1c6f39ebbb1c9204cbbe551d5ad80f2a, type: 3}
+  prefab: {fileID: 4264754271148472530, guid: 7ef0f21b91daf9948889e635acf04e4c, type: 3}

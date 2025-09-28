@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: Puzzle Riddle
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: A Riddle
+  description: A Riddle, likely for whatever contraption is here in the basketball
+    court.
+  itemText: "They come every Wednesday. It was different each time. They were creative,
+    you see. But they definitely  had their favorite routine. Certain days they would
+    force me to drink water, sometimes it was brandy, a zap if I didn\u2019t finish
+    drinking. And when I was filled up like a balloon, they\u2019d decide I\u2019d
+    make a great pinata. And they\u2019d use various facilities available in the
+    room, pound my belly, force me to puke. But that wasn\u2019t enough, they had
+    me puke in a pitcher. Force my mouth open, and force the contents in again.\r\n\r\nWhen
+    all the anger left me and all that remained was horror, guilt, dread, they\u2019d
+    ask me. Questions about who I work with. Questions about whether I had ties to
+    the communists. I didn't, but we organized riots. That never made a difference
+    to them. Another round of the Water cure, as they call it. I\u2019d win some
+    days when I\u2019d see a hint of frustration from their face. That was a victory.
+    But then their pursed lips creep into a smirk. Then they\u2019d ask their final
+    question\u2026 if I just wanna help them have a good time instead.\r\n\r\nIt
+    was better than having blood on my hands. I would never betray the cause I believe
+    in. After that, my lower regions would feel numb. No pain, just\u2026 emptiness.
+    I thank the water cure for being a pseudo-anesthesia.\r\n"
+  healAmount: 0
+  icon: {fileID: 21300000, guid: b8c2a1f6597ea7143ac6d524672dd02a, type: 3}
+  prefab: {fileID: 8048784581451761532, guid: 8616a25dba302bb429832532778a9be5, type: 3}

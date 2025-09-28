@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005f70131e8d7af49bc299ae9ab08318, type: 3}
+  m_Name: Terminal
+  m_EditorClassIdentifier: 
+  isMonologue: 0
+  hidePlayerDuringDialogue: 1
+  customBackgroundMusic: {fileID: 0}
+  conversationLines:
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: Terminal_Dante
+    dialogueText: "Mang Ernesto- it doesn\u2019t make sense- I-"
+    cameraShotID: Terminal_Hang
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: Terminal_Dante
+    dialogueText: "I saw you, earlier\u2026"
+    cameraShotID: Terminal_Hang
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    - Terminal_ErnestoDead
+    speakerID: Terminal_Dante
+    dialogueText: "Is this a dream? It doesn\u2019t make sense\u2026 "
+    cameraShotID: Terminal_Hang1
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    - Terminal_ErnestoDead
+    speakerID: MEH_Dante1
+    dialogueText: "I don\u2019t know what to say-"
+    cameraShotID: Terminal_Hang1
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: MEH_Dante1
+    dialogueText: Then who was that I saw earlier?
+    cameraShotID: Terminal_Hang
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: MEH_Dante1
+    dialogueText: ...
+    cameraShotID: Terminal_Hang
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    - Terminal_ErnestoDead
+    speakerID: MEH_Dante1
+    dialogueText: Nothing makes sense in this town...
+    cameraShotID: Terminal_Hang1
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3

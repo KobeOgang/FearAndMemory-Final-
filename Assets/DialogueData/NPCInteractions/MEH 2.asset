@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005f70131e8d7af49bc299ae9ab08318, type: 3}
+  m_Name: MEH 2
+  m_EditorClassIdentifier: 
+  isMonologue: 0
+  hidePlayerDuringDialogue: 1
+  customBackgroundMusic: {fileID: 0}
+  conversationLines:
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: "Still a picture of Eduardo here\u2026 Mang Ernesto\u2019s son.\r"
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: I....
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: I remember now...
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: Eduardo, Mang Ernesto's son... He died a year ago, beat to death
+      in a rally by Metrocom.
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: To say Mang Ernesto was devastated would be an understatement.
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: Mang Ernesto wanted the world to know what happened to his son.
+      He approached various news outlets. No one would cover it, and when they would,
+      they would always blur out who killed his son - the authorities, Metrocom.
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: They would rewrite the stories, write out that it was a stampede
+      of people that killed him, or communist insurgents that caused his death.
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: "I know how these publishing companies work-  they\u2019d get visits
+      by government representatives\u2026 blackmailed to write out anything that
+      makes the administration look bad.."
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: "Really, I don\u2019t know how the publishing company I work at
+      survives\u2026"
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: "Mang Ernesto approached me because he knows I\u2019m an editor
+      for a newspaper publishing company\u2026"
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante1
+    speakerID: MEH_Dante1
+    dialogueText: "But publishing a story like that\u2026 isn\u2019t a practical
+      choice for me.\r"
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante7
+    speakerID: MEH_Dante7
+    dialogueText: "I could be risking my career and safety for a story like that.\r"
+    cameraShotID: ME_Picture
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - MEH_Dante7
+    speakerID: MEH_Dante7
+    dialogueText: "Still, I feel bad. I wish circumstances were different.\r"
+    cameraShotID: ME_DReminisce
+    animationTrigger: HeadShake
+    lineSFX: {fileID: 0}
+    displayDuration: 3

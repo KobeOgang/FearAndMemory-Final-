@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: News_PlazaMiranda
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Newspaper on Plaza Miranda
+  description: A news headline on Plaza Miranda, the bombing that claimed 9 lives.
+  itemText: 'PLAZA MIRANDA, 9 KILLED IN BOMBING
+
+    August 21, 1971
+
+
+    Things
+    were lively in the Liberal Party Rally as the event welcomed the senators including
+    Geraldo Roxas, Eva Estrada-Kalaw, and Jovito Salonga. As the senators took the
+    stage, three grenades were thrown, killing 9 people and injuring 95 people, including
+    the senator Salonga who lost an eye and one hearing ear.
+
+
+    This event was
+    seen as a massive blow to the President''s political rivals. The suspect remains
+    at large.
+
+
+'
+  healAmount: 0
+  icon: {fileID: 21300000, guid: e2976b9330b091d4b9f1854fca8128ec, type: 3}
+  prefab: {fileID: 4264754271148472530, guid: af606b0f7ed8df849862e8ae501bd911, type: 3}

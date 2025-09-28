@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: News_LaborDay
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Newspaper on a Labor Day Rally
+  description: A newspaper about the Labor Day Rally...
+  itemText: "METROCOM KILLS 3, LABOR DAY RALLY\nMay 1, 1971\n\nWorkers and youths
+    marched on May 1 from the Espa\xF1a rotunda down the length of Espa\xF1a, across
+    the Quezon Bridge and gathered on P. Burgos in front of the House of Congress.\n\nAccording
+    to journalist and screenwriter Ricky Lee, who was present at the event, some
+    of the demonstrators began throwing pillboxes, small handheld explosive devices,
+    at the troops in front of the congressional building.\n\nIt was at this point
+    that the protest became a massacre. There were snipers on roofs in Intramuros,
+    prepared for those who would flee. The rooftop snipers began to spray the crowd
+    with machine gunfire, killing three.\n"
+  healAmount: 0
+  icon: {fileID: 21300000, guid: c8dde0f39e7a7c94699a46abd13ab426, type: 3}
+  prefab: {fileID: 4264754271148472530, guid: cbfbd8e236313824c8020a5e47f238ab, type: 3}

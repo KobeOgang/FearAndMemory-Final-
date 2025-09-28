@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005f70131e8d7af49bc299ae9ab08318, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  isMonologue: 0
+  hidePlayerDuringDialogue: 1
+  conversationLines:
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Intro_Dante1
+    dialogueText: '*Pained Grunts*'
+    cameraShotID: Intro_WormShot
+    animationTrigger: Rising
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Intro_Dante1
+    dialogueText: What? Where am I...
+    cameraShotID: Intro_DanteCloseup
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Siren
+    dialogueText: (Siren Blares)
+    cameraShotID: Intro_WideShot
+    animationTrigger: 
+    lineSFX: {fileID: 8300000, guid: b4c4f27d97656f548beb4c61f69bfb0c, type: 3}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Intro_Dante1
+    dialogueText: "Ah crap\u2026 I need to go indoors.. I doubt the constabulary
+      gives a pass."
+    cameraShotID: Intro_DanteRoadShot
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Intro_Dante1
+    dialogueText: "Still, what am I doing here? I don\u2019t remember anything\u2026
+      at all."
+    cameraShotID: Intro_DanteCloseup
+    animationTrigger: LookAround
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Intro_Veronica
+    - Intro_Dante1
+    speakerID: Intro_Veronica
+    dialogueText: '-'
+    cameraShotID: Intro_VRunning
+    animationTrigger: Running
+    lineSFX: {fileID: 0}
+    displayDuration: 1.5
+  - participantsToSetVisible:
+    - Intro_Dante1
+    speakerID: Intro_Dante1
+    dialogueText: Huh...?
+    cameraShotID: Intro_DanteCloseup
+    animationTrigger: Idle
+    lineSFX: {fileID: 0}
+    displayDuration: 3

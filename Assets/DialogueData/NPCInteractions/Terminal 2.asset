@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 005f70131e8d7af49bc299ae9ab08318, type: 3}
+  m_Name: Terminal 2
+  m_EditorClassIdentifier: 
+  isMonologue: 0
+  hidePlayerDuringDialogue: 1
+  customBackgroundMusic: {fileID: 0}
+  conversationLines:
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: Terminal_Dante
+    dialogueText: That's right...I remember now...
+    cameraShotID: Terminal_DCloseUp
+    animationTrigger: Sad
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    - Terminal_ErnestoDead
+    speakerID: Terminal_Dante
+    dialogueText: Mang Ernesto died... by his own hand.
+    cameraShotID: Terminal_Hang1
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: Terminal_Dante
+    dialogueText: I already know this! Why do I have to live through this again!
+    cameraShotID: Terminal_DCloseUp
+    animationTrigger: Defeated
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    speakerID: Terminal_Dante
+    dialogueText: I'm sorry, Mang Ernesto... I was a coward.
+    cameraShotID: Terminal_Hang
+    animationTrigger: Sad
+    lineSFX: {fileID: 0}
+    displayDuration: 3
+  - participantsToSetVisible:
+    - Terminal_Dante
+    - Terminal_ErnestoDead
+    speakerID: Terminal_Dante
+    dialogueText: I failed you.
+    cameraShotID: Terminal_Hang1
+    animationTrigger: 
+    lineSFX: {fileID: 0}
+    displayDuration: 3

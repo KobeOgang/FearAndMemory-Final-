@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c715378f74c425046acd8e5a8114191b, type: 3}
+  m_Name: RippedNewspaperPage
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Ripped newspaper page
+  description: A torn newspaper page with some words scratched out.
+  itemText: "FM Declares Martial Law\nDate: September 24, 1972\n\n\nThe nat'l situation
+    in brief: The president mentions possible communist uprisings in [REDACTED] parts
+    of the Philippines, warranting martial law. \n\nCivilian gov't still functions:
+    The president assures there will be no military takeover, and the decision for
+    martial law is for the safety of [REDACTED].\n\nThere will be curfews to monitor
+    activity, and the Philippine Constabulary Metropolitan Command (Metro Com) will
+    ensure everyone dutifully [REDACTED].\n"
+  healAmount: 25
+  icon: {fileID: 21300000, guid: 452272ad203299e45ae11433ab84aef0, type: 3}
+  prefab: {fileID: 237416591072960072, guid: 772b57c0013d30d468a48a6766869c52, type: 3}
